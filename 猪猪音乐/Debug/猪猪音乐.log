@@ -1,0 +1,32 @@
+﻿  MyPlayer.cpp
+c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(57): error C2601: “Cls_OnInitDialog”: 本地函数定义是非法的
+  c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(13): note: 此行有一个“{”没有匹配项
+c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(83): error C2601: “Cls_OnCommand”: 本地函数定义是非法的
+  c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(13): note: 此行有一个“{”没有匹配项
+c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(123): error C2601: “Cls_OnClose”: 本地函数定义是非法的
+  c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(13): note: 此行有一个“{”没有匹配项
+c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(128): error C2601: “Start”: 本地函数定义是非法的
+  c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(13): note: 此行有一个“{”没有匹配项
+c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(167): error C2601: “Pause”: 本地函数定义是非法的
+  c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(13): note: 此行有一个“{”没有匹配项
+c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(183): error C2601: “PlayMusic”: 本地函数定义是非法的
+  c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(13): note: 此行有一个“{”没有匹配项
+c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(192): error C2601: “StopMusic”: 本地函数定义是非法的
+  c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(13): note: 此行有一个“{”没有匹配项
+c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(202): error C2601: “PauseMusic”: 本地函数定义是非法的
+  c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(13): note: 此行有一个“{”没有匹配项
+c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(209): error C2601: “ResumeMusic”: 本地函数定义是非法的
+  c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(13): note: 此行有一个“{”没有匹配项
+c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(216): error C2601: “GetMusicLength”: 本地函数定义是非法的
+  c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(13): note: 此行有一个“{”没有匹配项
+c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(225): error C2601: “GetMusicPos”: 本地函数定义是非法的
+  c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(13): note: 此行有一个“{”没有匹配项
+c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(234): error C2601: “FromMusicPos”: 本地函数定义是非法的
+  c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(13): note: 此行有一个“{”没有匹配项
+c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(241): error C2601: “Add”: 本地函数定义是非法的
+  c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(13): note: 此行有一个“{”没有匹配项
+c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(282): error C2601: “Del”: 本地函数定义是非法的
+  c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(13): note: 此行有一个“{”没有匹配项
+c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(298): error C2601: “Clear”: 本地函数定义是非法的
+  c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(13): note: 此行有一个“{”没有匹配项
+c:\users\administrator\desktop\猪猪音乐\猪猪音乐\myplayer.cpp(13): fatal error C1075: “{”: 未找到匹配令牌
